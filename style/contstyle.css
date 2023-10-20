@@ -1,0 +1,48 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: powderblue;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+.z23{
+    background-image:url(../image/co_!.jpg) ;
+    height: 500px;
+}
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+    }
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+.card{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.cmain{
+    width: 100%;
+    background-color: lightgray;
+    height: 200px;
+}
+.cmain i{
+    font-size: 50px;
+    padding: 10px;
+    background-color: #2485B0;
+    border-radius: 20px;
+    justify-content: center;
+   margin: 10%;
+    align-items: center;
+    /*display: flex;*/
+}
